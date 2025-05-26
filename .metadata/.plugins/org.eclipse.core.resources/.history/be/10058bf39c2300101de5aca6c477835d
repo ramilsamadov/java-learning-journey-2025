@@ -1,0 +1,18 @@
+package com.google.studying;
+
+/**
+ * A simple Hello World application.
+ * 
+ * This class is created for practicing Java documentation generation (Javadoc).
+ */
+public class MyPractices {
+
+    /**
+     * This is the main method which runs the Hello World application.
+     * 
+     * @param args Command-line arguments
+     */
+    public static void main(String[] args) {
+        System.out.print("HelloWorld");
+    }
+}

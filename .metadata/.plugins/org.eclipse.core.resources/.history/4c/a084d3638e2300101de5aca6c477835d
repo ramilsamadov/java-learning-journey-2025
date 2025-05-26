@@ -1,0 +1,19 @@
+package com.google.studying;
+
+public class MyPractices {
+
+	public static void main(String[] args) {
+		System.out.print("HelloWorld");
+	}
+
+}
+/**
+ * dfgdfgdfg
+ * dfgdfgdf
+ * @param args
+ */
+
+/**
+ * Java App
+ * @author Ramil
+*/

@@ -1,0 +1,12 @@
+package com.google.studying;
+
+import java.math.BigDecimal;
+
+public class test {
+	public static void main(String[] args) {
+		int i=10;
+		BigDecimal x=BigDecimal.valueOf(i).setScale(2);
+		System.out.println(x);
+	}
+
+}

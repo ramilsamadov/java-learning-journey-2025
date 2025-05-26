@@ -1,0 +1,21 @@
+package com.google.studying;
+
+import java.math.BigDecimal;
+import java.util.Scanner;
+
+public class test {
+	public static void main(String[] args) {
+		int[] arr= {1,2,3,4,5,6};
+		int total=0;
+		for(int nums : arr) {
+			total+=nums;
+			System.out.println(nums);
+			System.out.println(total);
+		}
+		
+		
+		
+		
+	}
+
+}

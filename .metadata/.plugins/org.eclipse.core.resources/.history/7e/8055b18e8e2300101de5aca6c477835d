@@ -1,0 +1,21 @@
+package com.google.studying;
+/**
+ * This is the first doc
+ */
+public class MyPractices {
+    /**
+     * The main method which runs the program.
+     * @param args Command-line arguments
+     */
+
+	public static void main(String[] args) {
+		System.out.print("HelloWorld");
+	}
+
+}
+
+
+/**
+ * Java App
+ * @author Ramil
+*/
