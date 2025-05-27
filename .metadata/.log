@@ -2978,3 +2978,12 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-05-27 21:39:41.163
 !MESSAGE Classpath changed for project: module7.TypeConversion
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-05-27 22:19:36.662
+!MESSAGE Classpath changed for project: module7.TypeConversion
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-05-27 22:19:36.665
+!MESSAGE Classpath changed for project: module8.TypeConversion
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-05-27 22:20:07.262
+!MESSAGE Classpath changed for project: module09.Conditional
