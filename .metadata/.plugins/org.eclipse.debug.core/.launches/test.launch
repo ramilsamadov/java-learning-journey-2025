@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/FromZeroToWork/src/com/google/studying/test.java"/>
+        <listEntry value="/module04.BreakPointandTooltip/src/module04/BreakPointandTooltip/Test.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.google.studying.test"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="FromZeroToWork"/>
-    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="FromZeroToWork"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="module04.BreakPointandTooltip.Test"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="BreakPointandTooltip"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="module04.BreakPointandTooltip"/>
 </launchConfiguration>
