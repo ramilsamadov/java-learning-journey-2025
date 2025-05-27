@@ -5,6 +5,6 @@ public class Short_module02 {
 		// range is -32768 and 32767 .2byte
 		short number = 15000;
 		System.out.println(number);
-		
+
 	}
 }

@@ -8,7 +8,6 @@ public class Float_module02 {
 		float maxValue = java.lang.Float.MAX_VALUE;
 		System.out.println(minValue);
 		System.out.println(maxValue);
-		
 
 	}
 
